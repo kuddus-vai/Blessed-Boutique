@@ -1,0 +1,8 @@
+{
+  "name": "Blessed Boutique",
+  "description": "Elevating women’s fashion with timeless elegance \u0026 modern trends.\"🛍️\n\nblessed_boutiquex\n\n01333-100412\n",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
